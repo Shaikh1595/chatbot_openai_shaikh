@@ -79,13 +79,14 @@ body {
 .profile {
   width: 36px;
   height: 36px;
-  border-radius: 5px;
+  border-radius: 4px;
 
   background: #005AFF;
 
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-right: 4px;
 }
 
 .ai .profile {
@@ -123,7 +124,7 @@ form {
   width: 100%;
   max-width: 1280px;
   margin: 0 auto;
-  padding: 10px;
+  padding: 14px;
   background: #40414F;
 
   display: flex;
